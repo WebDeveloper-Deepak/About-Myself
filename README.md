@@ -1,7 +1,9 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=70"/>
 <h1 align="center">Hi 👋, I'm Shani</h1>
 <h3 align="center">A passionate developer</h3>
-<h4 align="center"> 3rd year computer science student</h4>
-
+<h4 align="center">Bachelor of Computer Science</h4>
+ 
 <div style="display: flex; align-items: center;">
 
 <h3 align="left">Connect with me:</h3>
