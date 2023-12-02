@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=70"/>
-<h1 align="center">Hi 👋, I'm Shani</h1>
+<h1 align="center">Hi 👋, I'm Shani Bider</h1>
 <h3 align="center">A passionate developer</h3>
 <h4 align="center">BSc Computer Science graduate</h4>
  
