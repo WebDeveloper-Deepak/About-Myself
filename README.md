@@ -1,9 +1,23 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=70"/>
 <h1 align="center">Hi 👋, I'm Shani Bider</h1>
-<h3 align="center">A passionate developer</h3>
-<h4 align="center">BSc Computer Science graduate</h4>
- 
+<h3 align="center">A PASSIONATE DEVELOPER</h3>
+<h4 align="center">Bsc in Computer Science</h4>
+
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibider&label=Profile%20views&color=0e75b6&style=flat" alt="shanibider" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanibider" alt="shanibider" /></a> </p>
+
+
+- 🔭 I’m currently working on **on Website developing**
+
+- 💬 Ask me about **react, javascript, java.**
+
+- 📫 How to reach me **shanibider@gmail.com**
+  
+
+
 <div style="display: flex; align-items: center;">
 
 <h3 align="left">Connect with me:</h3>
