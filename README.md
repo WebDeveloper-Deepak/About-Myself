@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shani-bider-0848b8177/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semion-solonar-236636226" height="30" width="40" /></a>
-<a style="margin-left: 145x;" href="mailto:shimon22361@icloud.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="shanibider@gmail.com" height="40 width="40" /></a>
+<a style="margin-left: 145x;" href="mailto:shanibider@gmail.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="shanibider@gmail.com" height="40 width="40" /></a>
 </p>
 </div>
 
