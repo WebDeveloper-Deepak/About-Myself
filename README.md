@@ -5,19 +5,17 @@
 <h4 align="center">with a BSc in computer science</h4>
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibider&label=Profile%20views&color=0e75b6&style=flat" alt="shanibider" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibider&label=Profile%20views&color=0e75b6&style=flat" alt="shanibider" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanibider" alt="shanibider" /></a> </p>
   
-<br>
 
 ## 😊 Hi friends 
 
-- 🔭 I’m currently working on **on Website developing**
+- 🔭 I’m currently working on **Front End Developing**
 
-- 💬 Ask me about **react, javascript, java.**
+- 💬 Ask me about **MERN Stack | React, JavaScript, HTML, CSS, Java.**
 
-<br>
 
 ## ✨ Fun Facts 
 - [x] 🚀 Started coding at 15, fueled by a passion for problem-solving.
@@ -27,19 +25,12 @@
 - [x] 💻 When I was a kid, I dreamed of working for a big magazine company.
 
 
-
-<br>
-
 ## 📫 Contact with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
+[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
 
-<div style="display: flex; align-items: center;">
-<p align="left">
-<a href="https://www.linkedin.com/in/shani-bider-0848b8177/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semion-solonar-236636226" height="30" width="40" /></a>
-<a style="margin-left: 145x;" href="mailto:shanibider@gmail.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="shanibider@gmail.com" height="40 width="40" /></a>
-</p>
-</div>
 
-  
 <br>
 
 ## 💻 Languages and Tools
