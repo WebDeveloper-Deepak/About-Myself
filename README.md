@@ -4,7 +4,7 @@
 <h3 align="center">A PASSIONATE FULL-STACK DEVELOPER</h3>
 <h4 align="center">with a BSc in computer science</h4>
 
-<div align="center"> <img height="400px" src="https://github.com/shanibider/shanibider/assets/72359805/a0c4c2c2-3690-4752-9023-fcfd34ab1a41"> <div>
+<div align="center"> <img height="400px" src="https://github.com/shanibider/shanibider/assets/72359805/f5cda162-cc3e-4f8c-a938-3fd1e195faa7"> <div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibider&label=Profile%20views&color=0e75b6&style=flat" alt="shanibider" /> </p>
 
