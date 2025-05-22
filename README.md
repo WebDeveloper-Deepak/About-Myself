@@ -1,38 +1,32 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=70"/>
-<h1 align="center">Hi 👋, I'm Shani Bider</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Hi%20Everyone!&fontSize=70"/>
+<h1 align="center">Hi👋, I'm Deepak Sharma </h1>
 <h3 align="center">A PASSIONATE FULL-STACK DEVELOPER</h3>
-<h4 align="center">with a BSc in computer science</h4>
+<h4 align="center"> B.Sc. in Computer Science </h4>
 
 
-<div align="center"> <img height="400px" src="https://github.com/user-attachments/assets/8e3324aa-982a-4ae4-a017-a276bd3f9acc"> <div>
+________________________________________________________________________________________________________
+A PASSIONATE FULL-STACK WEB DEVELOPER (MERN)
+With a B.Sc. in Computer Science Degree and 9 Months of MERN Stack Web Development BOOTCAMP Course from CODING NINJAS . . . 
+😊 Hi friends 👋 
+ 🔭 I’m currently working on MERN Stack Development's Real-Life Projects.
+ 💬 Ask me about MERN Stack | React, JavaScript, NodeJS, HTML5, CSS3, Java, Python, and more.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibider&label=Profile%20views&color=0e75b6&style=flat" alt="shanibider" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanibider" alt="shanibider" /></a> </p>
-  
-
-## 😊 Hi friends 
-
-- [ ] 🔭 I’m currently working on **Front End Developing**
-
-- [ ] 💬 Ask me about **MERN Stack | React, JavaScript, HTML, CSS, Java.**
-
-
-## ✨ Fun Facts 
-- [x] 🚀 Started coding at 15, fueled by a passion for problem-solving.
-- [x] 🍏 I’m a healthy lifestyle and wellness enthusiast.
-- [x] 🩰 I start dancing ballet when i was 3.
-- [x] 📈 I thrive on self-development.
-- [x] 💻 When I was a kid, I dreamed of working for a big magazine company.
+✨ Fun Facts -
+ 🚀 Started coding at 18, fueled by a passion for real life problem-solving.
+ 🍏 I’m a fit, healthy lifestyle and wellness enthusiast.
+ 📈 I thrive on self-development.
+ 💻 When I was a kid, I dreamed of working for a big Tech IT company like MAANG or FAANG.
 
 
-## 📫 Contact with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
+💻 Languages, Technologies and Tools -
+Java, Python, HTML5, CSS3, BootStrap, JavaScript, JQuery, ReactJS, NodeJS, ExpressJS, MongoDB, Mysql, etc.
 
 
+## 📫 Contact with me -
+deepak.ds.7421@gmail.com 
+<br>
+www.linkedin.com/in/deepaksharma2024 <br>
 <br>
 
 ## 💻 Languages and Tools
@@ -57,8 +51,9 @@
 
 <br> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanibider&show_icons=true&locale=en&layout=compact" alt="shanibider" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanibider&show_icons=true&locale=en" alt="shanibider" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanibider&" alt="shanibider" /></p>
+![image](https://github.com/user-attachments/assets/c9d4af7b-0a7a-404d-a7c4-ee5cd2eeb603)  ![image](https://github.com/user-attachments/assets/11feab71-eb57-4db3-a27f-ce52142f68f4) 
+
+ 
+
